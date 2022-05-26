@@ -42,7 +42,7 @@ export function Profile(){
               </div>
               <div className={styles.table}>
             <img
-              src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fc34IMp%2FbtrCLAcUiqp%2FI93ncZNWR6THZTlVVFgo51%2Fimg.jpg"
+              src="https://ifh.cc/g/dl1Zlh.jpg"
               width="250"
               height="300"/>
               <h2 className={styles.text}> 서 성 민 </h2>
