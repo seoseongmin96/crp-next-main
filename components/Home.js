@@ -13,7 +13,7 @@ export function Home() {
         <div class="col-md-11 p-lg-5 mx-auto my-4">
           <p class="display-6 font-weight-normal">CRP를 이용해보세요</p>
           <p class="lead font-weight-normal">챗봇으로 악보 표절 검사와 분석, 음원 검색을 할 수 있습니다.</p>
-          <a class="btn btn-outline-light" href="#">시작하기</a>
+          <a class="btn btn-outline-light" href="/user/login">시작하기</a>
           </div>
           <div class="product-device box-shadow d-none d-md-block"></div>
           <div class="product-device product-device-2 box-shadow d-none d-md-block"></div>
